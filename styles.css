@@ -385,6 +385,15 @@ p {
     transform: scale(1.03);
 }
 
+.pricing-plan.professional {
+    border-color: #00FFFF;
+    transform: scale(1.03);
+}
+
+.plan-price-month {
+    font-size: 1rem;
+}
+
 .plan-name {
     color: #FF4800;
     font-size: 1.4rem;
